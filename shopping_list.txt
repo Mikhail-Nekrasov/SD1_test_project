@@ -66,3 +66,5 @@ Laundry detergent
 Toilet paper
 Paper towels
 Trash bags
+
+new string for testing
