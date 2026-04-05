@@ -1,4 +1,4 @@
-🛒 Monthly Grocery List
+🛒 Monthly Grocery List EDIT for the EXERCISE 11
 🥦 Fresh Produce (buy weekly, but plan monthly)
 Potatoes (3–5 kg)
 Carrots (1–2 kg)
@@ -68,5 +68,8 @@ Paper towels
 Trash bags
 
 new string for testing
+<<<<<<< HEAD
 
 edit the last string for the EXERCISE 11
+=======
+>>>>>>> 9a1952dfc91ec4fcbeb9b08925c96ed960f9998d
