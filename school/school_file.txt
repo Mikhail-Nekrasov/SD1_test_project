@@ -1,0 +1,1 @@
+test for the EXERCISE 12 (adding string from GitHub)
