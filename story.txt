@@ -8,3 +8,8 @@ After doing all the changes described above, create a total of three commits: on
 Using the command git log, check that you have properly created three commits. You can press q to exit the log.
 Add something new to the shopping list, and create another commit. Use the command git add -p.
 Make sure you can see all the commits in the output of git log.
+<<<<<<< Updated upstream
+=======
+
+edit of the last line for the EXERCISE 10
+>>>>>>> Stashed changes
