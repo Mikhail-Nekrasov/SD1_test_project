@@ -1,1 +1,2 @@
 adding string from the local repository for the EXERCISE 12
+test for the EXERCISE 12 (adding string from GitHub)
