@@ -1,0 +1,3 @@
+git remote -v
+origin  https://github.com/Mikhail-Nekrasov/SD1_test_project.git (fetch)
+origin  https://github.com/Mikhail-Nekrasov/SD1_test_project.git (push)
