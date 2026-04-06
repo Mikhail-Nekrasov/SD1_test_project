@@ -1,1 +1,3 @@
 some text after the command git add git_practice.txt
+
+some new text for checking stash
